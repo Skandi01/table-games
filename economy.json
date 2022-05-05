@@ -1,0 +1,602 @@
+[
+    {
+        "Price": 3990,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 3 до 4",
+            "Время игры": "от 45 до 90"
+        },
+        "Description": "Про колонизацию, удачу и дипломатию",
+        "Model": "Колонизаторы",
+        "Url": "https://www.mosigra.ru/catan/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/554/071/DSC_2202_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 2 до 7",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "Игра про строительство собственного города",
+        "Model": "Цитадели",
+        "Url": "https://www.mosigra.ru/citadels/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Цитадели/DSC_3575-1024x1024.jpg"
+    },
+    {
+        "Price": 3490,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "Известная игра, которая продаётся более 80 лет",
+        "Model": "Монополия",
+        "Url": "https://www.mosigra.ru/monopoly/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/558/968/1-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 2 до 8",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "Легендарная игра стала круче",
+        "Model": "Цитадели Делюкс",
+        "Url": "https://www.mosigra.ru/cytadeli_deluks/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/548/314/DSC_0503_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1290,
+        "Params": {
+            "Возраст игроков": "от 7",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "от 30 до 45"
+        },
+        "Description": "Стань мэром японского городка",
+        "Model": "Мачи Коро",
+        "Url": "https://www.mosigra.ru/machi_koro/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Мачи%20Коро/DSC_1631-1024x1024.jpg"
+    },
+    {
+        "Price": 6990,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 40 до 80"
+        },
+        "Description": "Волшебные животные готовятся к зиме",
+        "Model": "Эверделл",
+        "Url": "https://www.mosigra.ru/everdell/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/561/521/DSC_2590-1024x1024.jpg"
+    },
+    {
+        "Price": 3490,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "Хит. Хотите купить Петербург или Москву?",
+        "Model": "Монополия Россия",
+        "Url": "https://www.mosigra.ru/monopoliy_rossiy/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/538/885/2-1024x1024.jpg"
+    },
+    {
+        "Price": 1290,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 1 до 5",
+            "Время игры": "от 40"
+        },
+        "Description": "\r\n\tМеньше народу - больше кислороду!\r\n",
+        "Model": "Деревни",
+        "Url": "https://www.mosigra.ru/derevni/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Magellan/Деревни/DSC_7510-1024x1024.jpg"
+    },
+    {
+        "Price": 3990,
+        "Params": {
+            "Возраст игроков": "от 17",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "Завяжи Мультивселенную в узел",
+        "Model": "Монополия Рик и Морти",
+        "Url": "https://www.mosigra.ru/monopoly_rik_i_morti/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/554/523/DSC_2800-1024x1024.jpg"
+    },
+    {
+        "Price": 2490,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 3 до 6",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "Играем большой компанией!",
+        "Model": "Колонизаторы. Расширение для 5-6 игроков",
+        "Url": "https://www.mosigra.ru/catan_5_6/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/562/571/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 3990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 3 до 4",
+            "Время игры": "от 90 до 120"
+        },
+        "Description": "Расширение Колонизаторов",
+        "Model": "Колонизаторы. Города и рыцари",
+        "Url": "https://www.mosigra.ru/kolonizatori_goroda_i_ricari/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/549/798/DSC_5633_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 3990,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "На богатом острове столько возможностей!",
+        "Model": "Колонизаторы. Купцы и варвары",
+        "Url": "https://www.mosigra.ru/catan_handler_und_barbaren/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/561/351/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 3990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 120"
+        },
+        "Description": "\r\n\tЗажжём, инвестируем и разбогатеем!\r\n",
+        "Model": "Энергосеть",
+        "Url": "https://www.mosigra.ru/energosiet/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Энергосеть/DSC_3737-1024x1024.jpg"
+    },
+    {
+        "Price": 590,
+        "Params": {
+            "Возраст игроков": "от 7",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "от 40 до 60"
+        },
+        "Description": "Новые здания для Мачи Коро",
+        "Model": "Мачи Коро Шарп",
+        "Url": "https://www.mosigra.ru/machi_koro_sharp/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/558/469/DSC_5940_600x600-1024x1024.JPG"
+    },
+    {
+        "Price": 890,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "Версия в дорогу: удобная и компактная",
+        "Model": "Колонизаторы. Карточная игра",
+        "Url": "https://www.mosigra.ru/SettlersCard/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Обновление%20обложек/koloniz_card_3d00-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 6990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 240"
+        },
+        "Description": "Симулятор фермера: экономика, рождаемость, ресурсы",
+        "Model": "Агрикола",
+        "Url": "https://www.mosigra.ru/Agricola/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/548/359/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 3490,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "Жульничать можно? Нужно!",
+        "Model": "Монополия большая афера",
+        "Url": "https://www.mosigra.ru/monopoly_bolshaya_afera/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/553/090/DSC_1199-1024x1024.jpg"
+    },
+    {
+        "Price": 4990,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 3 до 7",
+            "Время игры": "от 30"
+        },
+        "Description": "\r\n\tЧудеса делаются своими руками\r\n",
+        "Model": "7 чудес",
+        "Url": "https://www.mosigra.ru/7-wonders/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Стиль%20Жизни/7%20чудес/DSC_1403-1024x1024.jpg"
+    },
+    {
+        "Price": 8990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 45 до 90"
+        },
+        "Description": "Занимательное виноделие для стратегических умов",
+        "Model": "Виноделие",
+        "Url": "https://www.mosigra.ru/vinodelie/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/549/405/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 3490,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "\r\n\tЗдесь очень красиво\r\n",
+        "Model": "Эверделл: Жемчужный ручей. Подводные сокровища. Делюкс-набор",
+        "Url": "https://www.mosigra.ru/deljuks-nabor-jeverdell-zhemchuzhnij-ruchej-podvodnie-sokrovishha/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/Everdell_Ruchey_Podvodnye_sokrovisha_00-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 5490,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "\r\n\tИдут лавины одна за одной\r\n",
+        "Model": "Эверделл: Острые хребты",
+        "Url": "https://www.mosigra.ru/jeverdell-ostrie-hrebti/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/h1zgF7MA-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 30"
+        },
+        "Description": "Маленькая экономическая игра в дорогу",
+        "Model": "Монополия дорожная",
+        "Url": "https://www.mosigra.ru/monopoliy_kompakt/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/546/169/1-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 6",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 30 до 45"
+        },
+        "Description": "Пираты тоже колонизаторы!",
+        "Model": "Колонизаторы Junior 2014",
+        "Url": "https://www.mosigra.ru/kolonizatori_junior/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.main/534/436/IMG_6313-1024x1024.jpg"
+    },
+    {
+        "Price": 1990,
+        "Params": {
+            "Возраст игроков": "от 9",
+            "Количество игроков": "от 2 до 8",
+            "Время игры": "30"
+        },
+        "Description": "По-настоящему экономическая игра",
+        "Model": "Экономикус (2-е издание)",
+        "Url": "https://www.mosigra.ru/economikus/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/543/427/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 6",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 20 до 50"
+        },
+        "Description": "Фиксики на страже экономии",
+        "Model": "Фиксиномика",
+        "Url": "https://www.mosigra.ru/fiksinomika/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/546/620/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "от 120 до 180"
+        },
+        "Description": "Впереди Вселенная",
+        "Model": "Покорение Марса. Проект Венера",
+        "Url": "https://www.mosigra.ru/pokorenie_marsa_proekt_venera/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/549/666/DSC_5034_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1250,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "от 120 до 180"
+        },
+        "Description": "От экватора до полюса",
+        "Model": "Покорение Марса. Эллада и Элизий",
+        "Url": "https://www.mosigra.ru/?route=product/product&product_id=328300",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/549/674/DSC_5030-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "Дорожно-компактная торговля энергией",
+        "Model": "Энергосеть. Карточная игра",
+        "Url": "https://www.mosigra.ru/energoset_kartochnaya_igra/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/560/759/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 2790,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 10"
+        },
+        "Description": "Выиграть за 10 минут",
+        "Model": "Монополия Гонка",
+        "Url": "https://www.mosigra.ru/monopolia_gonka/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/563/558/DSC_5549-1024x1024.jpg"
+    },
+    {
+        "Price": 4990,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 30"
+        },
+        "Description": "Умная шляпа всё посчитает за вас",
+        "Model": "Монополия с голосовым управлением",
+        "Url": "https://www.mosigra.ru/monopolia_s_golosovym_upravleniem/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/562/050/DSC_3681_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 30"
+        },
+        "Description": "Описание в пути",
+        "Model": "Теория Власти",
+        "Url": "https://www.mosigra.ru/teorija-vlasti/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Muravey%20Games/DSC_6850-1024x1024.jpg"
+    },
+    {
+        "Price": 4490,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 1 до 5",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "Время очень не любит, когда его убивают",
+        "Model": "Маятник",
+        "Url": "https://www.mosigra.ru/majatnik/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/Маятник-1024x1024.jpg"
+    },
+    {
+        "Price": 2490,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 1 до 8",
+            "Время игры": "от 30"
+        },
+        "Description": "Что дешевле - содержать корову или строить молокозавод?",
+        "Model": "Экономикус (3-е издание)",
+        "Url": "https://www.mosigra.ru/jekonomikus/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Настольная%20игра/Настольная%20игра%20Экономикус.%203-е%20издание/DSC_0546-1024x1024.jpg"
+    },
+    {
+        "Price": 2850,
+        "Params": {
+            "Возраст игроков": "от 7",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 40"
+        },
+        "Description": "\r\n\tПродано господину с огромной гривой\r\n",
+        "Model": "Сквайр",
+        "Url": "https://www.mosigra.ru/skvajr/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Cosmodrome%20Games/Сквайр/DSC_1568-1024x1024.jpg"
+    },
+    {
+        "Price": 3490,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 3 до 5",
+            "Время игры": "от 90"
+        },
+        "Description": "\r\n\tРельсы, шпалы, едет поезд запоздалый\r\n",
+        "Model": "Steam. Железнодорожный магнат",
+        "Url": "https://www.mosigra.ru/steam-zheleznodorozhnij-magnat/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Steam.%20Железнодорожный%20магнат/shopping-1024x1024.jpg"
+    },
+    {
+        "Price": 4990,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 90 до 120"
+        },
+        "Description": "\r\n\tДинозавры на свободе\r\n",
+        "Model": "Остров юрского периода",
+        "Url": "https://www.mosigra.ru/ostrov-jurskogo-perioda/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Hobby%20World%20Остров%20юрского%20периода/DSC_1949-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "",
+        "Model": "Орлеан. Торговля и интриги",
+        "Url": "https://www.mosigra.ru/orlean-torgovlja-i-intrigi/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/orlean_torg-1024x1024.jpg"
+    },
+    {
+        "Price": 1290,
+        "Params": {
+            "Возраст игроков": "от 6",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 15"
+        },
+        "Description": "\r\n\tДля самых юных бизнесменов\r\n",
+        "Model": "Мармеладный босс",
+        "Url": "https://www.mosigra.ru/marmeladnij-boss/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Magellan/Мармеладный%20босс/DSC_2547-1024x1024.jpg"
+    },
+    {
+        "Price": 5490,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "Описание в пути",
+        "Model": "Руины острова Арнак",
+        "Url": "https://www.mosigra.ru/ruini-ostrova-arnak/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/Arnaks-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 4990,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 1 до 5",
+            "Время игры": "от 90"
+        },
+        "Description": "Описание в пути",
+        "Model": "Корпорация Смартфон. С дополнением Update 1.1",
+        "Url": "https://www.mosigra.ru/korporacija-smartfon-s-dopolneniem/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Cosmodrome%20Games/Корпорация%20Смартфон%20с%20дополнением/smartfon1-1024x1024.jpg"
+    },
+    {
+        "Price": 3990,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 30"
+        },
+        "Description": "\r\n\tКонём мат ставили с первого хода!\r\n",
+        "Model": "Монополия СССР. Ностальгия",
+        "Url": "https://www.mosigra.ru/monopolija-sssr-nostalgija/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/61259073871-1024x1024.jpg"
+    },
+    {
+        "Price": 4990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "\r\n\tНаступило забвение и безразличие\r\n",
+        "Model": "Крио",
+        "Url": "https://www.mosigra.ru/krio/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/krio_main-1024x1024.jpg"
+    },
+    {
+        "Price": 6990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 50 до 140"
+        },
+        "Description": "\r\n\tРайское местечко\r\n",
+        "Model": "Халлертау",
+        "Url": "https://www.mosigra.ru/hallertau/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Халлертау/Hallertau_00-1024x1024.jpg"
+    },
+    {
+        "Price": 4990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 70 до 100"
+        },
+        "Description": "\r\n\tПрикоснись ко тьме внутри меня\r\n",
+        "Model": "Костёр",
+        "Url": "https://www.mosigra.ru/kostjor/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Костёр/DSC_6513-1024x1024.jpg"
+    },
+    {
+        "Price": 4790,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 40 до 120"
+        },
+        "Description": "\r\n\tПраздник должен продолжаться\r\n",
+        "Model": "Эверделл: Фестиваль",
+        "Url": "https://www.mosigra.ru/jeverdell-festival/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/bellfaire_00-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 5690,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60"
+        },
+        "Description": "Описание в пути",
+        "Model": "Истоки. Восход цивилизации",
+        "Url": "https://www.mosigra.ru/istoki-voshod-civilizacii/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Cosmodrome%20Games/Истоки.%20Восход%20цивилизации/DSC_6425-1024x1024.jpg"
+    },
+    {
+        "Price": 4990,
+        "Params": {
+            "Возраст игроков": "от 16",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 45"
+        },
+        "Description": "Описание в пути",
+        "Model": "Монополия Supernatural (на английском языке)",
+        "Url": "https://www.mosigra.ru/monopolija-supernatural-na-anglijskom-jazike/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/Monopoly_Supernatural_Join_The_Hunt00-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 4990,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 45"
+        },
+        "Description": "Описание в пути",
+        "Model": "Монополия Queen (на английском языке)",
+        "Url": "https://www.mosigra.ru/monopolija-queen-na-anglijskom-jazike/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/Monopoly_Queen00-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 3690,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 60 до 180"
+        },
+        "Description": "Описание в пути",
+        "Model": "Монополия Мегаполис",
+        "Url": "https://www.mosigra.ru/monopolija-megapolis/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hasbro/Монополия%20Мегаполис/DSC_6837-1024x1024.jpg"
+    },
+    {
+        "Price": 7990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 30 до 120"
+        },
+        "Description": "Описание в пути",
+        "Model": "Рюрик",
+        "Url": "https://www.mosigra.ru/rjurik/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/rurik_00-1024x1024-1024x1024.jpg"
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "Price": 8990,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 1 до 5",
+            "Время игры": "от 90 до 180"
+        },
+        "Description": "Мощь альтернативной истории",
+        "Model": "Серп",
+        "Url": "https://www.mosigra.ru/scythe/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.main/541/930/2-original-1024x1024.jpg"
+    },
+    {
+        "Price": 3490,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 2",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "Древнее зло пробудилось",
+        "Model": "Ужас Аркхэма. Карточная игра",
+        "Url": "https://www.mosigra.ru/uzhas_arkhema_kartochnaya/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/549/589/DSC_4843_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 5990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 8",
+            "Время игры": "от 120 до 180"
+        },
+        "Description": "\r\n\tМир тайн, мифов и страхов ждёт вас\r\n",
+        "Model": "Древний Ужас",
+        "Url": "https://www.mosigra.ru/drevniy_uzhas/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Hobby%20World%20Древний%20Ужас/DSC_1928-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "от 60 до 95"
+        },
+        "Description": "Самурайские битвы в японских провинциях",
+        "Model": "Битва за Рокуган",
+        "Url": "https://www.mosigra.ru/bitba_za_rokugan/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/558/306/DSC_5806_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 5990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 3 до 6",
+            "Время игры": "от 120"
+        },
+        "Description": "Одна из лучших стратегий. Мир Мартина",
+        "Model": "Игра Престолов",
+        "Url": "https://www.mosigra.ru/thrones/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Игра%20Престолов/DSC_2850-1024x1024.jpg"
+    },
+    {
+        "Price": 9990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 5",
+            "Время игры": "от 120 до 180"
+        },
+        "Description": "\r\n\tЗаперты в чужом безумии\r\n",
+        "Model": "Особняки безумия",
+        "Url": "https://www.mosigra.ru/osobnjaki-bezumija/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Особняки%20безумия/Mansions-of-Madness_box-1024x1024.jpg"
+    },
+    {
+        "Price": 4990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 3",
+            "Время игры": "от 120 до 150"
+        },
+        "Description": "\r\n\tНичего более не имеет смысла\r\n",
+        "Model": "Предназначение",
+        "Url": "https://www.mosigra.ru/prednaznachenie/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Предназначение/destinies_00-1024x1024.jpg"
+    },
+    {
+        "Price": 9990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 5",
+            "Время игры": "от 60"
+        },
+        "Description": "\r\n\tОпасное это дело, Фродо, выходить за порог\r\n",
+        "Model": "Властелин Колец. Странствия в Средиземье",
+        "Url": "https://www.mosigra.ru/vlastelin-kolec-stranstvija-v-sredizeme/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Hobby%20World%20Властелин%20Колец.%20Странствия%20в%20Средиземье/DSC_1912-1024x1024.jpg"
+    },
+    {
+        "Price": 6990,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 45 до 120"
+        },
+        "Description": "Выжить любой ценой",
+        "Model": "Это моя война",
+        "Url": "https://www.mosigra.ru/eto_moia_voina/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/547/766/2-1024x1024.jpg"
+    },
+    {
+        "Price": 3990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "от 120 до 180"
+        },
+        "Description": "Граф восстал из мёртвых!",
+        "Model": "Ярость Дракулы",
+        "Url": "https://www.mosigra.ru/fury_of_dracula/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Ярость%20Дракулы/DSC_2730-1024x1024.jpg"
+    },
+    {
+        "Price": 5990,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 120 до 180"
+        },
+        "Description": "\r\n\tВы сделаете это, потому что так надо\r\n",
+        "Model": "Зона. Тайны Чернобыля",
+        "Url": "https://www.mosigra.ru/zona-tajni-chernobilja/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Hobby%20World%20Зона.%20Тайны%20Чернобыля/DSC_1589-1024x1024.jpg"
+    },
+    {
+        "Price": 6990,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 120 до 180"
+        },
+        "Description": "\r\n\tНе мертвец тот, кто может вечно лежать\r\n",
+        "Model": "Ужас Аркхэма. Третья редакция",
+        "Url": "https://www.mosigra.ru/uzhas-arkhjema-3-red/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Hobby%20World%20Ужас%20Аркхэма%20(3-я%20редакция)/DSC_1961-1024x1024.jpg"
+    },
+    {
+        "Price": 6990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 240"
+        },
+        "Description": "Симулятор фермера: экономика, рождаемость, ресурсы",
+        "Model": "Агрикола",
+        "Url": "https://www.mosigra.ru/Agricola/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/548/359/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 7990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 2",
+            "Время игры": "от 120 до 180"
+        },
+        "Description": "И нет противостоянию конца",
+        "Model": "Звёздные Войны: Легион",
+        "Url": "https://www.mosigra.ru/star-wars-legion/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Легион/SW-Legion_box-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 120 до 180"
+        },
+        "Description": "\r\n\tПока звёзды вновь не займут удачное положение\r\n",
+        "Model": "Ужас Аркхэма. Третья редакция: Во мраке ночи",
+        "Url": "https://www.mosigra.ru/uzhas-arkhjema-3-red-vo-mrake-nochi/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Во%20мраке%20ночи/Arkham-Horror-3ed_Dead-of-Night_1-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 17990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 30 до 120"
+        },
+        "Description": "Описание в пути",
+        "Model": "Мрачная гавань (Gloomhaven)",
+        "Url": "https://www.mosigra.ru/mrachnaja-gavan-gloomhaven/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/Gloomhaven_mrachnaja-gavan_3D_roznica-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 8990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 45 до 90"
+        },
+        "Description": "Занимательное виноделие для стратегических умов",
+        "Model": "Виноделие",
+        "Url": "https://www.mosigra.ru/vinodelie/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/549/405/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 5490,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 120 до 180"
+        },
+        "Description": "\r\n\tПо болотам с мечом\r\n",
+        "Model": "Runebound",
+        "Url": "https://www.mosigra.ru/Runebound/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Hobby%20World%20Runebound%20(3-я%20редакция)/DSC_1894-1024x1024.jpg"
+    },
+    {
+        "Price": 6990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 60"
+        },
+        "Description": "Абордажная тактическая битва",
+        "Model": "Ром и кости. Второй прилив",
+        "Url": "https://www.mosigra.ru/rom-i-kosti-vtoroj-priliv/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Hobby%20World%20Ром%20и%20кости.%20Второй%20прилив/1-1024x1024.jpg"
+    },
+    {
+        "Price": 5490,
+        "Params": {
+            "Возраст игроков": "от 7",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "Тактика для всей семьи",
+        "Model": "О мышах и тайнах",
+        "Url": "https://www.mosigra.ru/o_myshah_i_tajnah/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/544/864/1-1024x1024.jpg"
+    },
+    {
+        "Price": 6990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "Игра древнегреческих престолов",
+        "Model": "Киклады",
+        "Url": "https://www.mosigra.ru/kiklady/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/552/752/DSC_0221_200x170-1024x1024.jpg"
+    },
+    {
+        "Price": 1790,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "\r\n\tЗло ради торжества истины или справедливости\r\n",
+        "Model": "Ужас Аркхэма. Карточная игра: Ночь фанатички. Возвращение",
+        "Url": "https://www.mosigra.ru/uzhas-arkhjema-kartochnaja-igra-noch-fanatichki-vozvrashhenie/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Ужас%20Аркхэма.%20Ночь%20фанатички/noch_fanatichki_vozvrasshenie_00-1024x1024.jpg"
+    },
+    {
+        "Price": 2490,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 1 до 8",
+            "Время игры": "от 120 до 180"
+        },
+        "Description": "\r\n\tБольше чудовищ из мира Ктулху!\r\n",
+        "Model": "Древний Ужас. Забытые тайны",
+        "Url": "https://www.mosigra.ru/drevniy_uzhas_tainy/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.main/536/134/EH02_3D-1024x1024.jpg"
+    },
+    {
+        "Price": 1290,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 120 до 180"
+        },
+        "Description": "\r\n\tВспомни, что ты герой\r\n",
+        "Model": "Runebound. Позолоченный клинок",
+        "Url": "https://www.mosigra.ru/?route=product/product&product_id=328757",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/554/389/DSC_2660-1024x1024.jpg"
+    },
+    {
+        "Price": 1990,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 1 до 2",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "Зло возвращается",
+        "Model": "Ужас Аркхэма. Карточная игра: Наследие Данвича",
+        "Url": "https://www.mosigra.ru/uzhas_arkhema_kartochnaya_nasledie_danvicha/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/554/421/DSC_2656_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 4990,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 1 до 8",
+            "Время игры": "от 120 до 240"
+        },
+        "Description": "\r\n\tШаг в сновидения\r\n",
+        "Model": "Древний ужас: Мир Грез",
+        "Url": "https://www.mosigra.ru/drevniy_uzhas_mir_grez/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Древние%20ужасы/drevnij-uzhas_mir-grez_3D_roznica-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 4990,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 1 до 8",
+            "Время игры": "от 120 до 240"
+        },
+        "Description": "\r\n\tПроклятье Тёмного фараона\r\n",
+        "Model": "Древний Ужас: Под пирамидами",
+        "Url": "https://www.mosigra.ru/drevniy_uzhas_pod_piramidami/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Древние%20ужасы/drevnij-uzhas_pod-piramidami_3D_roznica-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 2490,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 1 до 8",
+            "Время игры": "от 120 до 240"
+        },
+        "Description": "\r\n\tЗащитить Землю!\r\n",
+        "Model": "Древний ужас: Таинственные руины",
+        "Url": "https://www.mosigra.ru/drevniy_uzhas_tainstvennye_ruiny/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Древние%20ужасы/drevnij-uzhas_tainstvennie-ruini_3D_roznica-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 4990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 8",
+            "Время игры": "от 120 до 180"
+        },
+        "Description": "\r\n\tТайны подо льдами\r\n",
+        "Model": "Древний Ужас. Хребты Безумия",
+        "Url": "https://www.mosigra.ru/drevniy_uzhas_hrebty_bezumia/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Древние%20ужасы/drevnij-uzhas_hrebti-bezumija_3D_roznica-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 45 до 120"
+        },
+        "Description": "Героев больше, выживать сложнее",
+        "Model": "Это моя война. Истории осаждённого города",
+        "Url": "https://www.mosigra.ru/eto_moia_voina_istorii_osazhdennogo_goroda/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/556/074/DSC_4149-1024x1024.jpg"
+    },
+    {
+        "Price": 790,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 1 до 2",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "Зловещий обряд угрожает всему миру",
+        "Model": "Ужас Аркхэма. Карточная игра: Наследие Данвича. Там, где ждет погибель",
+        "Url": "https://www.mosigra.ru/uzhas_arkhema_kartochnaya_tam_gde_zhdet_pogibel/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/556/954/DSC_4420-1024x1024.jpg"
+    },
+    {
+        "Price": 790,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 1 до 2",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "Деревню разносит гигантское чудовище. Или их два?",
+        "Model": "Ужас Аркхэма. Карточная игра: Наследие Данвича. Неизмеримые и невидимые",
+        "Url": "https://www.mosigra.ru/uzhas_arkhema_kartochnaya_neizmerimye_i_nevidimye/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/556/965/DSC_4416_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 790,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 1 до 2",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "Пугающая ночь в Данвиче - это только начало",
+        "Model": "Ужас Аркхэма. Карточная игра: Наследие Данвича. Кровь на алтаре",
+        "Url": "https://www.mosigra.ru/uzhas_arkhema_kartochnaya_krov_na_altare/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/556/974/DSC_4412_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 790,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 1 до 2",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "Путешествие на ту сторону реальности",
+        "Model": "Ужас Аркхэма. Карточная игра: Наследие Данвича. Потерянные во времени и пространстве",
+        "Url": "https://www.mosigra.ru/uzhas-arkhjema-kartochnaja-igra-nasledie-danvicha-poterjannie-vo-vremeni-i-prostranstve/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/557/005/DSC_4418_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 9990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 2",
+            "Время игры": "от 45 до 60"
+        },
+        "Description": "Дуэльный варгейм по «Игре престолов» ",
+        "Model": "Песнь льда и огня: Старки против Ланнистеров",
+        "Url": "https://www.mosigra.ru/pesn_lda_i_ognya_starki_vs_lannisterov/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Starki_protiv_Lannisterov_01-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 17990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 3 до 6",
+            "Время игры": "от 360"
+        },
+        "Description": "Кто станет новым галактическим императором?",
+        "Model": "Сумерки империи. Четвёртое издание",
+        "Url": "https://www.mosigra.ru/sumerki_imperii/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/558/578/DSC_5996-1024x1024.jpg"
+    },
+    {
+        "Price": 2490,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "Уничтожить Древнее Зло за час",
+        "Model": "Ужас Аркхэма: Последний час ",
+        "Url": "https://www.mosigra.ru/uzhas_arkhema_posledniy_chas/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/563/254/DSC_5304_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 4990,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "Звериные разборки в волшебном лесу",
+        "Model": "Корни",
+        "Url": "https://www.mosigra.ru/korni/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/562/378/DSC_3999_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "Карта \"смерть\" не значит ничего другого",
+        "Model": "Ужас Аркхэма. Карточная игра: Нарушенный круг",
+        "Url": "https://www.mosigra.ru/uzhas-arkhjema-kartochnaja-igra-narushennij-krug/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Ужас%20Аркхэма.%20Карточная%20игра%20Нарушенный%20кругъ/DSC_0818-1024x1024.jpg"
+    },
+    {
+        "Price": 5490,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 120 до 180"
+        },
+        "Description": "\r\n\tКошмары неспокойных вод\r\n",
+        "Model": "Ужас Аркхэма. Под тёмными волнами",
+        "Url": "https://www.mosigra.ru/uzhas-arkhjema-3-ja-redakcija-pod-tjomnimi-volnami/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Ужас%20Аркхэма%20Под%20тёмными%20волнами/AH_UnderDarkWaves_Box_3D-roznica-1024x1024.jpg"
+    },
+    {
+        "Price": 5490,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "Кажется, что время бесконечно",
+        "Model": "Чужие рубежи",
+        "Url": "https://www.mosigra.ru/chuzhie-rubezhi/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Чужие%20рубежи/Chuzhie_Rubezhi00-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 5990,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 120"
+        },
+        "Description": "\r\n\tТы отравить кого-то хочешь?\r\n",
+        "Model": "Алхимики",
+        "Url": "https://www.mosigra.ru/alhimiki/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/GAGA/Алхимики/Alhimiki-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 6990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 50 до 140"
+        },
+        "Description": "\r\n\tРайское местечко\r\n",
+        "Model": "Халлертау",
+        "Url": "https://www.mosigra.ru/hallertau/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Халлертау/Hallertau_00-1024x1024.jpg"
+    },
+    {
+        "Price": 4990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 70 до 100"
+        },
+        "Description": "\r\n\tПрикоснись ко тьме внутри меня\r\n",
+        "Model": "Костёр",
+        "Url": "https://www.mosigra.ru/kostjor/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Костёр/DSC_6513-1024x1024.jpg"
+    },
+    {
+        "Price": 5690,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60"
+        },
+        "Description": "Описание в пути",
+        "Model": "Истоки. Восход цивилизации",
+        "Url": "https://www.mosigra.ru/istoki-voshod-civilizacii/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Cosmodrome%20Games/Истоки.%20Восход%20цивилизации/DSC_6425-1024x1024.jpg"
+    },
+    {
+        "Price": 8490,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 45 до 180"
+        },
+        "Description": "Описание в пути",
+        "Model": "Рыцари пустоши",
+        "Url": "https://www.mosigra.ru/ricari-pustoshi/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/Ricari_Pustoshi-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 5",
+            "Время игры": "от 120 до 180"
+        },
+        "Description": "\r\n\tВ темноте нет начала и конца\r\n",
+        "Model": "Особняки безумия. Вторая редакция: Святилище сумерек",
+        "Url": "https://www.mosigra.ru/osobnjaki-bezumija-vtoraja-redakcija-svjatilishhe-sumerek/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Особняки%20безумия.%20Святилище%20сумерек/sanctum_of_twilight_00-1024x1024.jpg"
+    },
+    {
+        "Price": 7990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 30 до 120"
+        },
+        "Description": "Описание в пути",
+        "Model": "Рюрик",
+        "Url": "https://www.mosigra.ru/rjurik/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/rurik_00-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "\r\n\tНе вмешивайся\r\n",
+        "Model": "Ужас Аркхэма. Карточная игра: Война Внешних богов",
+        "Url": "https://www.mosigra.ru/uzhas-arkhjema-kartochnaja-igra-vojna-vneshnih-bogov/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/war_of_the_outer_gods_00-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "\r\n\tСчастливого вам отдыха!\r\n",
+        "Model": "Ужас Аркхэма. Карточная игра: Убийство в отеле &quot;Эксельсиор&quot;",
+        "Url": "https://www.mosigra.ru/uzhas-arkhjema-kartochnaja-igra-ubijstvo-v-otele-andquot-jekselsiorandquot/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/murder_at_the_excelsior_hotel_00-1024x1024-1024x1024.jpg"
+    }
+]

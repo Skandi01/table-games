@@ -1,0 +1,600 @@
+[
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "от 15"
+        },
+        "Description": "Безумие, апокалипсис и котики",
+        "Model": "Взрывные котята",
+        "Url": "https://www.mosigra.ru/vzryvnye_kotyata/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/559/012/DSC_6561_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "от 15"
+        },
+        "Description": "Киски, пытки, буфера",
+        "Model": "Взрывные котята 18+",
+        "Url": "https://www.mosigra.ru/vzryvnye_kotyata_18/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/563/513/DSC_4693_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1990,
+        "Params": {
+            "Возраст игроков": "от 6",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 90 до 150"
+        },
+        "Description": "Карррамба! Это просто хит!",
+        "Model": "Шакал",
+        "Url": "https://www.mosigra.ru/jackal_inexpensive/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/533/075/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 790,
+        "Params": {
+            "Возраст игроков": "от 7",
+            "Количество игроков": "от 2 до 10",
+            "Время игры": "от 15 до 45"
+        },
+        "Description": "Игра, которая способна увлечь кого угодно",
+        "Model": "Уно",
+        "Url": "https://www.mosigra.ru/uno/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/531/341/-2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 2490,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "Бестселлер. Основное издание и дополнение",
+        "Model": "Шакал: Остров сокровищ",
+        "Url": "https://www.mosigra.ru/jackal_treasure_island/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/531/325/-2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 490,
+        "Params": {
+            "Возраст игроков": "от 5",
+            "Количество игроков": "от 2 до 10",
+            "Время игры": "от 15 до 20"
+        },
+        "Description": "«Посвинячим» вволю!",
+        "Model": "Свинтус",
+        "Url": "https://www.mosigra.ru/svintus/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/552/915/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1990,
+        "Params": {
+            "Возраст игроков": "от 7",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "35"
+        },
+        "Description": "Легендарная игра в новом обличье",
+        "Model": "Каркассон",
+        "Url": "https://www.mosigra.ru/karkason/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/560/710/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "Холмс — вы, Ватсон — ваш телефон",
+        "Model": "Место преступления",
+        "Url": "https://www.mosigra.ru/mesto_prestupleniya/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/558/884/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 2 до 7",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "Игра про строительство собственного города",
+        "Model": "Цитадели",
+        "Url": "https://www.mosigra.ru/citadels/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Цитадели/DSC_3575-1024x1024.jpg"
+    },
+    {
+        "Price": 1990,
+        "Params": {
+            "Возраст игроков": "от 6",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 5 до 10"
+        },
+        "Description": "Это не похоже на привычные настольные игры!",
+        "Model": "Дженга",
+        "Url": "https://www.mosigra.ru/jenga/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hasbro/Дженга%202021/DSC_6834-1024x1024.jpg"
+    },
+    {
+        "Price": 1390,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "30"
+        },
+        "Description": "Как хомяк вырос до мамонта и съел кита",
+        "Model": "Эволюция",
+        "Url": "https://www.mosigra.ru/Evolution/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Правильные%20игры%20/Эволюция/DSC_2708-1024x1024.jpg"
+    },
+    {
+        "Price": 3490,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "от 30 до 90"
+        },
+        "Description": "\r\n\tБазовая игра с пятью дополнениями\r\n",
+        "Model": "Каркассон. Королевский подарок",
+        "Url": "https://www.mosigra.ru/hobby_karkasson_gift/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/561/851/DSC_3213_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1190,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "2",
+            "Время игры": "от 45 до 60"
+        },
+        "Description": "Клубника пригодится",
+        "Model": "Фанты Масло в огонь (18+)",
+        "Url": "https://www.mosigra.ru/fantilirt_10_maslo_v_ogon/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/562/042/5_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 2 до 8",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "Легендарная игра стала круче",
+        "Model": "Цитадели Делюкс",
+        "Url": "https://www.mosigra.ru/cytadeli_deluks/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/548/314/DSC_0503_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1190,
+        "Params": {
+            "Возраст игроков": "от 6",
+            "Количество игроков": "от 2 до 8",
+            "Время игры": "от 15"
+        },
+        "Description": "Каждой твари по паре",
+        "Model": "Доббль",
+        "Url": "https://www.mosigra.ru/?route=product/product&product_id=30923",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/560/952/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 2490,
+        "Params": {
+            "Возраст игроков": "от 6",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "Гроза испанских морей, капитан Шакал закопал несколько кладов!",
+        "Model": "Шакал: Архипелаг",
+        "Url": "https://www.mosigra.ru/shakal_arhipelag/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/545/339/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1490,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "Тёплая и ламповая игра для двоих",
+        "Model": "Пэчворк",
+        "Url": "https://www.mosigra.ru/patchwork/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/539/353/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1990,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "2",
+            "Время игры": "от 45"
+        },
+        "Description": "Игра для влюблённых и только для влюблённых",
+        "Model": "IN LOVE игра для влюблённых (18+)",
+        "Url": "https://www.mosigra.ru/in_love/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/IN%20LOVE%20игра%20для%20влюблённых/DSC_2693-1024x1024.jpg"
+    },
+    {
+        "Price": 3490,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 2",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "Древнее зло пробудилось",
+        "Model": "Ужас Аркхэма. Карточная игра",
+        "Url": "https://www.mosigra.ru/uzhas_arkhema_kartochnaya/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/549/589/DSC_4843_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 690,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "2",
+            "Время игры": "от 80 до 120"
+        },
+        "Description": "Очень необычная и редкая игра для влюблённой пары",
+        "Model": "Для тебя",
+        "Url": "https://www.mosigra.ru/dly_teby/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/528/817/IMG_9590-2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1490,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 30"
+        },
+        "Description": "\r\n\tТишина мира успокаивает\r\n",
+        "Model": "Амазония",
+        "Url": "https://www.mosigra.ru/amazonija/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Амазония/Amazonija_00-1024x1024.jpg"
+    },
+    {
+        "Price": 1290,
+        "Params": {
+            "Возраст игроков": "от 6",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 5 до 15"
+        },
+        "Description": "Камень-ножницы-бумага-шашки-динамит!",
+        "Model": "Цу-Е-Фа",
+        "Url": "https://www.mosigra.ru/?route=product/product&product_id=328079",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/560/104/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 2 до 12",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "Передавайте взведённую бомбу!",
+        "Model": "Тик Так Бумм",
+        "Url": "https://www.mosigra.ru/tick_tack_bumm/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/538/768/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 45 до 90"
+        },
+        "Description": "Игра-кроссворд, нужно собирать слова из букв",
+        "Model": "Скрабл",
+        "Url": "https://www.mosigra.ru/scrabble/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Mattel/Скрабл%202021/DSC_3482-1024x1024.jpg"
+    },
+    {
+        "Price": 750,
+        "Params": {
+            "Возраст игроков": "от 7",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "60"
+        },
+        "Description": "Составление слов из букв по принципу кроссворда",
+        "Model": "Эрудит",
+        "Url": "https://www.mosigra.ru/erudit/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/531/485/-2-1024x1024.jpg"
+    },
+    {
+        "Price": 1650,
+        "Params": {
+            "Возраст игроков": "от 6",
+            "Количество игроков": "от 2 до 8",
+            "Время игры": "от 20 до 30"
+        },
+        "Description": "Невероятно милая игра на реакцию",
+        "Model": "Барабашка",
+        "Url": "https://www.mosigra.ru/?route=product/product&product_id=33178",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/537/203/2-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 7",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 30 до 40"
+        },
+        "Description": "Ситуацию меняете вы",
+        "Model": "Сумасшедший лабиринт (новый)",
+        "Url": "https://www.mosigra.ru/?route=product/product&product_id=325534",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/531/333/-2-1024x1024.jpg"
+    },
+    {
+        "Price": 790,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 2",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "Освоить космос с одной колодой",
+        "Model": "Звездные Империи (2-е рус. изд.)",
+        "Url": "https://www.mosigra.ru/zvezdnie_imperii/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/563/757/DSC_5829_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 4990,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "от 40 до 80"
+        },
+        "Description": "Станьте богом своего мира и вырастите свой народ!",
+        "Model": "Маленький Мир",
+        "Url": "https://www.mosigra.ru/Small_World/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/539/742/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1290,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "2",
+            "Время игры": "30"
+        },
+        "Description": "Любимые герои в настолке!",
+        "Model": "Время приключений. Карточные войны: Финн против Джейка",
+        "Url": "https://www.mosigra.ru/adventure_time_finn_vs_jake/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Время%20приключений%20Финн%20против%20Джейка/DSC_9423-1024x1024.jpg"
+    },
+    {
+        "Price": 1790,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "Следи за тем, что пьёшь",
+        "Model": "Таверна Красный Дракон",
+        "Url": "https://www.mosigra.ru/taverna_krasniy_drakon/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Таверна%20Красный%20Дракон/DSC_9435-1024x1024.jpg"
+    },
+    {
+        "Price": 6990,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 45 до 120"
+        },
+        "Description": "Выжить любой ценой",
+        "Model": "Это моя война",
+        "Url": "https://www.mosigra.ru/eto_moia_voina/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/547/766/2-1024x1024.jpg"
+    },
+    {
+        "Price": 3990,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 30 до 40"
+        },
+        "Description": "Изразцовое искусство",
+        "Model": "Азул",
+        "Url": "https://www.mosigra.ru/azul/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/549/318/DSC_3936_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 890,
+        "Params": {
+            "Возраст игроков": "от 6",
+            "Количество игроков": "2",
+            "Время игры": "от 15"
+        },
+        "Description": "Уютный и комфортный",
+        "Model": "Шашки деревянные",
+        "Url": "https://www.mosigra.ru/?route=product/product&product_id=328682",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/553/552/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 2390,
+        "Params": {
+            "Возраст игроков": "от 7",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 10 до 30"
+        },
+        "Description": "Безгранично интересно",
+        "Model": "Руммикуб (без границ)",
+        "Url": "https://www.mosigra.ru/rummikub_bez_granic/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/554/586/DSC_2802-1024x1024.jpg"
+    },
+    {
+        "Price": 5990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 120 до 180"
+        },
+        "Description": "Война всегда война",
+        "Model": "Fallout (Фоллаут)",
+        "Url": "https://www.mosigra.ru/fallout/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/554/625/DSC_2879_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "от 60 до 95"
+        },
+        "Description": "Самурайские битвы в японских провинциях",
+        "Model": "Битва за Рокуган",
+        "Url": "https://www.mosigra.ru/bitba_za_rokugan/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/558/306/DSC_5806_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 590,
+        "Params": {
+            "Возраст игроков": "от 7",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 10"
+        },
+        "Description": "Игра на «С», которую можно взять в дорогу",
+        "Model": "Соображарий Турбо",
+        "Url": "https://www.mosigra.ru/soobrazhariy_turbo/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/558/528/DSC_5762_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 3990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "60"
+        },
+        "Description": "\r\n\tВоины, на драккары — и за добычей!\r\n",
+        "Model": "Викинги",
+        "Url": "https://www.mosigra.ru/wikingi/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/558/826/DSC_6389_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 790,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "15"
+        },
+        "Description": "Битва за форт без правил",
+        "Model": "Форт",
+        "Url": "https://www.mosigra.ru/fort/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/560/751/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 1 до 5",
+            "Время игры": "от 45 до 60"
+        },
+        "Description": "Гравити Фолз — это маленький городок из популярного диснеевского мультсериала. В нём школьники Диппер и Мэйбл, которые гостят у дедушки Стэна, сражаются с монстрами. Или просто странными существами вр",
+        "Model": "Гравити Фолз",
+        "Url": "https://www.mosigra.ru/graviti_folz/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/560/925/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1890,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "от 30"
+        },
+        "Description": "По дорожке из непредсказуемого кирпича",
+        "Model": "Большая Бродилка",
+        "Url": "https://www.mosigra.ru/bolshaya_brodilka/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/561/168/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 7",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 40"
+        },
+        "Description": "\r\n\tВыращу пшеницу и свинку заведу\r\n",
+        "Model": "Каркассон. Купцы и зодчие",
+        "Url": "https://www.mosigra.ru/karkasson_kupcy_i_zodchie/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/564/208/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 7",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "40"
+        },
+        "Description": "Дополнение для неутомимых феодалов",
+        "Model": "Каркассон: Таверны и соборы",
+        "Url": "https://www.mosigra.ru/karkasson_taverny_i_sobory/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/561/924/DSC_3623_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1490,
+        "Params": {
+            "Возраст игроков": "от 6",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "20"
+        },
+        "Description": "Тащим добычу наощупь!",
+        "Model": "Шустрый лис",
+        "Url": "https://www.mosigra.ru/shustriy_lis/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/562/169/DSC_3855_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1790,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "от 45 до 60"
+        },
+        "Description": "\r\n\tА вот теперь зарубимся по-настоящему\r\n",
+        "Model": "Эпичные схватки боевых магов: Крутагидон",
+        "Url": "https://www.mosigra.ru/epic_mage_battles_krutagidon/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Эпичные%20схватки%20боевых%20магов%20Крутагидон/DSC_2084-1024x1024.jpg"
+    },
+    {
+        "Price": 790,
+        "Params": {
+            "Возраст игроков": "от 18"
+        },
+        "Description": "\r\n\tВсе грани удовольствия\r\n",
+        "Model": "Камасутра на кубиках (18+)",
+        "Url": "https://www.mosigra.ru/kamasutra-na-kubikah-18/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Фабрика%20Игр/Камасутра%20на%20кубиках/DSC_3088-1024x1024.jpg"
+    },
+    {
+        "Price": 490,
+        "Params": {
+            "Возраст игроков": "от 6",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 30 до 45"
+        },
+        "Description": "\r\n\tЙо-хо-хо и новый остров!\r\n",
+        "Model": "Шакал Архипелаг. Остров приливов",
+        "Url": "https://www.mosigra.ru/shakal_arhipelag_ostrov_prilivov/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Magellan/Шакал%20Архипелаг.%20Остров%20приливов.%20Издание%202021/DSC_7693-1024x1024.jpg"
+    },
+    {
+        "Price": 490,
+        "Params": {
+            "Возраст игроков": "от 6",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 30 до 45"
+        },
+        "Description": "\r\n\tЗаколдованные штурвалы повсюду\r\n",
+        "Model": "Шакал Архипелаг. Остров Веселого Роджера",
+        "Url": "https://www.mosigra.ru/shakal_arhipelag_ostrov_veselogo_rodzera/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Magellan/Шакал%20Архипелаг.%20Остров%20Весёлого%20Роджера.%20Издание%202021/DSC_7677-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 20"
+        },
+        "Description": "\r\n\tО, истина, мне жаль тебя\r\n",
+        "Model": "Боги Олимпа",
+        "Url": "https://www.mosigra.ru/bogi-olimpa/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Magellan/Боги%20Олимпа/DSC_7654-1024x1024.jpg"
+    }
+]

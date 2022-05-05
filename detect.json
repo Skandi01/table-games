@@ -1,0 +1,601 @@
+[
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "Холмс — вы, Ватсон — ваш телефон",
+        "Model": "Место преступления",
+        "Url": "https://www.mosigra.ru/mesto_prestupleniya/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/558/884/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1190,
+        "Params": {
+            "Возраст игроков": "от 5",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 15 до 20"
+        },
+        "Description": "Детектив на карточках",
+        "Model": "Коварный Лис",
+        "Url": "https://www.mosigra.ru/kovarniy_lis/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/537/620/2-1024x1024.jpg"
+    },
+    {
+        "Price": 1190,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 2 до 9",
+            "Время игры": "от 15 до 30"
+        },
+        "Description": "6 детективных игр",
+        "Model": "Нуар",
+        "Url": "https://www.mosigra.ru/nuar/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/539/890/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 20 до 60"
+        },
+        "Description": "Интрига в замкнутом пространстве",
+        "Model": "Клуэдо",
+        "Url": "https://www.mosigra.ru/cluedo_new/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/549/227/2-1024x1024.jpg"
+    },
+    {
+        "Price": 2490,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "\r\n\tНет преград для смелых рыцарей\r\n",
+        "Model": "Место преступления. Средневековье",
+        "Url": "https://www.mosigra.ru/mesto-prestuplenija-srednevekove/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Hobby%20World%20Место%20преступления.%20Средневековье/DSC_1607-1024x1024.jpg"
+    },
+    {
+        "Price": 2490,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "\r\n\tГде слог найду, чтоб описать прогулку\r\n",
+        "Model": "Место преступления. Прекрасная эпоха",
+        "Url": "https://www.mosigra.ru/mesto-prestuplenija-prekrasnaja-jepoha/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Место%20преступления%20Прекрасная%20эпоха/DSC_1112-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 4 до 16",
+            "Время игры": "от 15 до 90"
+        },
+        "Description": "Битва за человечество",
+        "Model": "Судный день",
+        "Url": "https://www.mosigra.ru/sudniy_den/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/561/579/DSC_2711_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 4990,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "\r\n\tКлюч от всех дверей\r\n",
+        "Model": "Инициатива",
+        "Url": "https://www.mosigra.ru/iniciativa/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Инициатива/DSC_4991-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 5 до 10",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "Шедевр для искушенных игроков",
+        "Model": "Сопротивление",
+        "Url": "https://www.mosigra.ru/soprotivlenie/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/549/934/DSC_5599_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 390,
+        "Params": {
+            "Возраст игроков": "от 16",
+            "Количество игроков": "от 6 до 26",
+            "Время игры": "от 40"
+        },
+        "Description": "Семья вернулась",
+        "Model": "Карты для игры в Мафию",
+        "Url": "https://www.mosigra.ru/mafia/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/magellan/Мафия.%202-е%20издание/DSC_6751-1024x1024.jpg"
+    },
+    {
+        "Price": 3290,
+        "Params": {
+            "Возраст игроков": "от 16",
+            "Количество игроков": "от 1 до 5",
+            "Время игры": "от 90 до 120"
+        },
+        "Description": "Мы не станем карать преступление другим преступлением",
+        "Model": "Детектив. Первый сезон",
+        "Url": "https://www.mosigra.ru/detektiv-pervij-sezon/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/GaGa%20Games/GaGa%20Games%20Детектив.%20Первый%20сезон/DSC_0683-1024x1024.jpg"
+    },
+    {
+        "Price": 2490,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 4 до 5",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "\r\n\tОпасность за каждым углом\r\n",
+        "Model": "Ужастик. Тайна особняка Фостеров",
+        "Url": "https://www.mosigra.ru/uzhastik-tajna-osobnjaka-fosterov/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/magellan/Ужастик.%20Тайна%20особняка%20Фостеров/DSC_3529-1024x1024.jpg"
+    },
+    {
+        "Price": 1290,
+        "Params": {
+            "Возраст игроков": "от 16",
+            "Количество игроков": "от 1 до 5",
+            "Время игры": "от 90 до 120"
+        },
+        "Description": "\r\n\tЛеденящий душу холод\r\n",
+        "Model": "Детективные истории: Роковая Антарктика",
+        "Url": "https://www.mosigra.ru/detektivnie-istorii-rokovaja-antarktika/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/fatale_antarktis_00-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 790,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "\r\n\tБудет лучше, чтобы они не видели\r\n",
+        "Model": "Crime Zoom: Убийство в Париже",
+        "Url": "https://www.mosigra.ru/crime-zoom-ubijstvo-v-parizhe/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Crime%20Zoom.%20Убийство%20в%20Париже/Ubijstvo_v_Parizhe_00-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 50 до 120"
+        },
+        "Description": "Отгадать загадку и освободиться",
+        "Model": "Exit. Заброшенный дом",
+        "Url": "https://www.mosigra.ru/exit_zabroshennyi_dom/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/547/621/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 690,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 60"
+        },
+        "Description": "\r\n\tНе смотри туда\r\n",
+        "Model": "Детективные хроники: Смерть в отражении",
+        "Url": "https://www.mosigra.ru/detektivnie-hroniki-smert-v-otrazhenii/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/Detektivnye_Hroniki_Smert_V_Otrazhenii00-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "от 30 до 90"
+        },
+        "Description": "Убийца Шерлок?",
+        "Model": "Клуэдо Шерлок",
+        "Url": "https://www.mosigra.ru/cluedo_sherlock/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/559/364/DSC_7287_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 2",
+            "Время игры": "от 10 до 40"
+        },
+        "Description": "На&nbsp;день рождения Шерлоку",
+        "Model": "Данетки подарочный набор",
+        "Url": "https://www.mosigra.ru/danetki_podarochniy/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/564/670/DSC_7055_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "\r\n\tЧетыре сценария про Америку восьмидесятых\r\n",
+        "Model": "Место преступления. Тайны Редвью",
+        "Url": "https://www.mosigra.ru/mesto_prestupleniya_tainy_redviu/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/564/874/DSC_7748_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "Мрачные тайны Лос-Анджелеса пятидесятых",
+        "Model": "Место преступления: Нуар",
+        "Url": "https://www.mosigra.ru/mesto_prestupleniya_nuar/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/560/962/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 3490,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 20"
+        },
+        "Description": "\r\n\tРазрешите провести расследование\r\n",
+        "Model": "Клуэдо. Паутина лжи",
+        "Url": "https://www.mosigra.ru/klujedo-pautina-lzhi/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hasbro/Hasbro%20Клуэдо.%20Паутина%20лжи/DSC_0423-1024x1024.jpg"
+    },
+    {
+        "Price": 2900,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 4 до 8",
+            "Время игры": "45"
+        },
+        "Description": "Что все эти люди имеют в виду?",
+        "Model": "Детектив Клуб",
+        "Url": "https://www.mosigra.ru/detektiv_klub/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/557/144/DSC_4509_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 180,
+        "Params": {
+            "Возраст игроков": "от 16",
+            "Количество игроков": "от 4 до 8",
+            "Время игры": "от 20 до 30"
+        },
+        "Description": "Игра по сериалу ТНТ",
+        "Model": "ЗКД",
+        "Url": "https://www.mosigra.ru/zkd/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/531/156/-2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "Выбраться, чтобы выжить",
+        "Model": "Exit. Секретная лаборатория",
+        "Url": "https://www.mosigra.ru/exit_sekretnaya_laboratoriya/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/548/655/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "Выбраться из эксейп-рума, не вставая из-за стола",
+        "Model": "Exit. Гробница фараона",
+        "Url": "https://www.mosigra.ru/exit_grobnica_faraonov/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/549/190/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 3390,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 40 до 60"
+        },
+        "Description": "В погоне за преступником",
+        "Model": "Скотланд Ярд",
+        "Url": "https://www.mosigra.ru/skotland_yard/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/552/472/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 4990,
+        "Params": {
+            "Возраст игроков": "от 16",
+            "Количество игроков": "от 1 до 5",
+            "Время игры": "120"
+        },
+        "Description": "Три дня на расследование",
+        "Model": "Детектив",
+        "Url": "https://www.mosigra.ru/detektiv/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/554/475/DSC_2738_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "Расслабьтесь, представьте себя на острове, с кучей загадок...",
+        "Model": "Exit. Затерянный остров",
+        "Url": "https://www.mosigra.ru/exit_zateryanniy_ostrov/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/557/782/DSC_5040_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "Коды, шифры, символы",
+        "Model": "Exit. Зловещий особняк",
+        "Url": "https://www.mosigra.ru/exit_zloveschiy_osobnyak/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/560/972/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 350,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 45 до 90"
+        },
+        "Description": "Репортаж обещает быть интересным",
+        "Model": "Карманный детектив. Дело №2: Опасные связи",
+        "Url": "https://www.mosigra.ru/?route=product/product&product_id=335376",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Lavka%20Games/Lavka%20Games%20Карманный%20детектив.%20Дело%20№2%20Опасные%20связи/1-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "\r\n\tСмейтесь до крика, кричите от ужаса\r\n",
+        "Model": "Exit. Комната Страха",
+        "Url": "https://www.mosigra.ru/face/show/exit_komnata_straha/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/564/904/DSC_7809_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 490,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 2",
+            "Время игры": "от 10 до 40"
+        },
+        "Description": "Жизнь изощрённее любой выдумки",
+        "Model": "Данетки Случаи из жизни",
+        "Url": "https://www.mosigra.ru/danetki_sluchai_iz_zhizni/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/561/880/DSC_3289-1024x1024.jpg"
+    },
+    {
+        "Price": 350,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 45 до 90"
+        },
+        "Description": "Как я научился не волноваться и полюбил бомбу",
+        "Model": "Карманный детектив. Дело №3: Время на исходе",
+        "Url": "https://www.mosigra.ru/?route=product/product&product_id=335897",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Lavka%20Games/Lavka%20Games%20Карманный%20детектив.%20Дело%20№3%20Время%20на%20исходе/DSC_9250-1024x1024.jpg"
+    },
+    {
+        "Price": 290,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 1 до 8",
+            "Время игры": "от 60"
+        },
+        "Description": "\r\n\tПредательский нож в спину\r\n",
+        "Model": "Элементарно! Смерть археолога",
+        "Url": "https://www.mosigra.ru/elementarno-smert-arheologa/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Стиль%20жизни/Элементарно.%20Смерть%20археолога/Elementarno_Smert00-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 290,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 1 до 8",
+            "Время игры": "от 60"
+        },
+        "Description": "\r\n\tУ нас нет официальной позиции\r\n",
+        "Model": "Элементарно! Убийство в День независимости",
+        "Url": "https://www.mosigra.ru/elementarno-ubijstvo-v-den-nezavisimosti/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Стиль%20жизни/Элементарно.%20Убийство%20в%20день%20независимости/Elementarno_Ubiystvo00-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 290,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 1 до 8",
+            "Время игры": "от 60"
+        },
+        "Description": "\r\n\tТакое уже, конечно, бывало\r\n",
+        "Model": "Элементарно: Последний шанс",
+        "Url": "https://www.mosigra.ru/elementarno-poslednij-shans/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Стиль%20жизни/Элементарно.%20Последний%20шанс/Elementarno_Shans00-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 1"
+        },
+        "Description": "\r\n\tСпасибо, что вы меня просветили\r\n",
+        "Model": "Комикс-игра &quot;Шерлок Холмс и Мориарти&quot;",
+        "Url": "https://www.mosigra.ru/komiks-igra-sherlok-holms-i-moriarti/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Комикс-игра%20Шерлок%20Холмс%20и%20Мориарти/DSC_4088-1024x1024.jpg"
+    },
+    {
+        "Price": 290,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 1 до 8",
+            "Время игры": "от 60"
+        },
+        "Description": "\r\n\tИсчезновение архитектора в Барселоне\r\n",
+        "Model": "Элементарно! Пропавший без вести",
+        "Url": "https://www.mosigra.ru/elementarno-propavshij-bez-vesti/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Стиль%20жизни/Элементарно.%20Пропавший%20без%20вести/Elementarno_Propavshiy-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 290,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 1 до 8",
+            "Время игры": "от 60"
+        },
+        "Description": "\r\n\tКакое несчастливое число\r\n",
+        "Model": "Элементарно! 13 заложников",
+        "Url": "https://www.mosigra.ru/elementarno-13-zalozhnikov/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Стиль%20жизни/Элементарно.%2013%20заложников/Elementarno_13_Zalojnikov-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 290,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 1 до 8",
+            "Время игры": "от 60"
+        },
+        "Description": "\r\n\tПроисшествие в зоопарке\r\n",
+        "Model": "Элементарно! Для детей. Тайна пропавшего суриката",
+        "Url": "https://www.mosigra.ru/elementarno-dlja-detej-tajna-propavshego-surikata/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Стиль%20жизни/Элементарно.%20Тайна%20пропавшего%20сурриката/Elementarno_Taina_Propavshego_Surikata-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 60 до 120"
+        },
+        "Description": "\r\n\tТолько не трогайте эту вазу\r\n",
+        "Model": "Exit. Загадочный музей",
+        "Url": "https://www.mosigra.ru/exit-zagadochnij-muzej/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Звезда/Загадочный%20музей/8981_A_-kopirovat-min-1024x1024.jpg"
+    },
+    {
+        "Price": 690,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 60"
+        },
+        "Description": "\r\n\tКажись цветком и будь змеей под ним\r\n",
+        "Model": "Детективные хроники: Призрак в музее",
+        "Url": "https://www.mosigra.ru/detektivnie-hroniki-prizrak-v-muzee/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Детективные%20хроники%20Призрак%20в%20музее/DSC_9375-1024x1024.jpg"
+    },
+    {
+        "Price": 1290,
+        "Params": {
+            "Возраст игроков": "от 16",
+            "Количество игроков": "от 1 до 5",
+            "Время игры": "от 90 до 120"
+        },
+        "Description": "\r\n\tА и мне ли жалеть огня?\r\n",
+        "Model": "Детективные истории Пожар в городе Адлерштайн",
+        "Url": "https://www.mosigra.ru/detektivnie-istorii-pozhar-v-gorode-adlershtajn/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Детективные%20истории%20Пожар%20в%20городе%20Адлерштайн/DSC_0077-1024x1024.jpg"
+    },
+    {
+        "Price": 2690,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 1 до 6",
+            "Время игры": "от 75"
+        },
+        "Description": "Описание в пути",
+        "Model": "Однажды в Чикаго",
+        "Url": "https://www.mosigra.ru/odnazhdi-v-chikago/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/Odnajdi_V_Chikago-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 1190,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 15"
+        },
+        "Description": "\r\n\tО, мой код!\r\n",
+        "Model": "Взломай код",
+        "Url": "https://www.mosigra.ru/vzlomaj-kod/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/GAGA/Взломай%20код/Vzlomai_Kod-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 8",
+            "Время игры": "от 45 до 75"
+        },
+        "Description": "Описание в пути",
+        "Model": "Опасные гости: кто убил мистера Уолтона?",
+        "Url": "https://www.mosigra.ru/opasnie-gosti-kto-ubil-mistera-uoltona/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Фабрика%20Игр/Опасные%20гости%20кто%20убил%20мистера%20Уолтона/DSC_5626-1024x1024.jpg"
+    },
+    {
+        "Price": 810,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 2",
+            "Время игры": "от 10"
+        },
+        "Description": "Описание в пути",
+        "Model": "Мрачные истории: классическое издание",
+        "Url": "https://www.mosigra.ru/mrachnie-istorii-klassicheskoe-izdanie/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/lifestyleltd_mrachnye_istorii_03-1024x1024.jpg"
+    },
+    {
+        "Price": 490,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2",
+            "Время игры": "от 10"
+        },
+        "Description": "Описание в пути",
+        "Model": "Similo: Сказки",
+        "Url": "https://www.mosigra.ru/similo- skazki/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/similo_fables_00-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 1990,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 3 до 6",
+            "Время игры": "от 30"
+        },
+        "Description": "Описание в пути",
+        "Model": "Лига детективов",
+        "Url": "https://www.mosigra.ru/liga-detektivov/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/Liga_Detektivov00-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 1750,
+        "Params": {
+            "Возраст игроков": "от 16",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 270"
+        },
+        "Description": "\r\n\tЯ бы хотел снять здесь номер\r\n",
+        "Model": "Adventure Games. Гранд-отель Абаддон",
+        "Url": "https://www.mosigra.ru/adventure-games-grand-otel-abaddon/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/Grand-Hotel_Abaddon-1024x1024-1024x1024.jpg"
+    }
+]

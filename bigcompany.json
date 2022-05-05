@@ -1,0 +1,540 @@
+[
+    {
+        "Price": 1990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 4 до 7",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "Много историй в одной коробке",
+        "Model": "Имаджинариум",
+        "Url": "https://www.mosigra.ru/imadjinarium/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Cosmodrome%20Games/Имаджинариум%20(2021)/DSC_6856-1024x1024.jpg"
+    },
+    {
+        "Price": 1290,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 3 до 12",
+            "Время игры": "от 25"
+        },
+        "Description": "\r\n\tСначала потом, затем, снова опять\r\n",
+        "Model": "Кринж",
+        "Url": "https://www.mosigra.ru/krinzh/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Magellan/Кринж/DSC_9609-1024x1024.jpg"
+    },
+    {
+        "Price": 490,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 3 до 8",
+            "Время игры": "от 15"
+        },
+        "Description": "\r\n\tОпа, опа, зелёная ограда\r\n",
+        "Model": "Фак мой мозг",
+        "Url": "https://www.mosigra.ru/fak-moj-mozg/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Magellan/Фак%20мой%20мозг/DSC_0140-1024x1024.jpg"
+    },
+    {
+        "Price": 1990,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 3 до 100",
+            "Время игры": "от 15"
+        },
+        "Description": "Злобно, пошло и смешно",
+        "Model": "500 злобных карт 3.0",
+        "Url": "https://www.mosigra.ru/500_zlobnyh_kart/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/561/417/3_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1990,
+        "Params": {
+            "Возраст игроков": "от 6",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 90 до 150"
+        },
+        "Description": "Карррамба! Это просто хит!",
+        "Model": "Шакал",
+        "Url": "https://www.mosigra.ru/jackal_inexpensive/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/533/075/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 790,
+        "Params": {
+            "Возраст игроков": "от 7",
+            "Количество игроков": "от 2 до 10",
+            "Время игры": "от 15 до 45"
+        },
+        "Description": "Игра, которая способна увлечь кого угодно",
+        "Model": "Уно",
+        "Url": "https://www.mosigra.ru/uno/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/531/341/-2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1590,
+        "Params": {},
+        "Description": "Описание в пути",
+        "Model": "Набор для покера. 200 фишек с номиналом, карты и сукно",
+        "Url": "https://www.mosigra.ru/nabor-dlja-pokera-200-fishek-s-nominalom-karti-i-sukno/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/6157965695-1024x1024.jpg"
+    },
+    {
+        "Price": 490,
+        "Params": {},
+        "Description": "Легендарные карты",
+        "Model": "Карты Байсикл Стандарт, 54 листа",
+        "Url": "https://www.mosigra.ru/?route=product/product&product_id=327997",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/546/586/1-1024x1024.jpg"
+    },
+    {
+        "Price": 790,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 1 до 5",
+            "Время игры": "от 30"
+        },
+        "Description": "\r\n\tДолина растений и цветов\r\n",
+        "Model": "Зелёная деревня",
+        "Url": "https://www.mosigra.ru/zeljonaja-derevnja/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Magellan/Зелёная%20деревня/DSC_0443-1024x1024.jpg"
+    },
+    {
+        "Price": 1490,
+        "Params": {
+            "Возраст игроков": "от 13",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 15"
+        },
+        "Description": "\r\n\tВаша новая челюсть, сэр.\r\n",
+        "Model": "Челюсти",
+        "Url": "https://www.mosigra.ru/chelusti/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Magellan/DSC_3783-1024x1024.jpg"
+    },
+    {
+        "Price": 490,
+        "Params": {
+            "Возраст игроков": "от 5",
+            "Количество игроков": "от 2 до 10",
+            "Время игры": "от 15 до 20"
+        },
+        "Description": "«Посвинячим» вволю!",
+        "Model": "Свинтус",
+        "Url": "https://www.mosigra.ru/svintus/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/552/915/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1490,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 3 до 6",
+            "Время игры": "от 30"
+        },
+        "Description": "\r\n\tПесни, как объятия, которые рты дают ушам\r\n",
+        "Model": "Манчкин: Гравити Фолз",
+        "Url": "https://www.mosigra.ru/manchkin-graviti-folz/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Hobby%20World/Манчкин%20Гравити%20фолз/munchkin_gravity_falls_00-1024x1024.jpg"
+    },
+    {
+        "Price": 190,
+        "Params": {},
+        "Description": "Очень плотные карты из Китая",
+        "Model": "Карты для покера Фабрика Покера",
+        "Url": "https://www.mosigra.ru/karti-dlja-pokera-fabrika-pokera/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Фабрика%20Игр/покер/Карты%20для%20покера%20Фабрика%20Покера%20(картон%20300%20г%20%20см%202)/DSC_0372-1024x1024.jpg"
+    },
+    {
+        "Price": 490,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 4 до 9",
+            "Время игры": "от 20 до 60"
+        },
+        "Description": "Вечер, друзья и Ёрш — понеслось!!",
+        "Model": "Ёрш",
+        "Url": "https://www.mosigra.ru/ersh_compact/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/528/826/1-13-2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 2490,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 3 до 13",
+            "Время игры": "от 15"
+        },
+        "Description": "Цинизм, чёрный юмор и жаркие споры (18+)",
+        "Model": "Трамвай смерти",
+        "Url": "https://www.mosigra.ru/tramvaj-smerti/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары%20на%20белом/Magellan/Трамвай%20смерти/tram-1024x1024.jpg"
+    },
+    {
+        "Price": 5990,
+        "Params": {},
+        "Description": "Максимально стильная игра",
+        "Model": "Набор из 300 фишек для покера с номиналом",
+        "Url": "https://www.mosigra.ru/nabor-iz-300-fishek-dlja-pokera-s-nominalom/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Фабрика%20Игр/Набор%20из%20300%20фишек%20для%20покера%20с%20номиналом/DSC_6421-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 2 до 8",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "\r\n\tВ хвост и в гриву\r\n",
+        "Model": "Неудержимые единорожки 18+",
+        "Url": "https://www.mosigra.ru/neuderzhimie-edinorozhki-18/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Неудержимые%20единорожки%2018+/DSC_9846-1024x1024.jpg"
+    },
+    {
+        "Price": 1990,
+        "Params": {
+            "Возраст игроков": "от 6",
+            "Количество игроков": "от 1 до 4",
+            "Время игры": "от 5 до 10"
+        },
+        "Description": "Это не похоже на привычные настольные игры!",
+        "Model": "Дженга",
+        "Url": "https://www.mosigra.ru/jenga/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hasbro/Дженга%202021/DSC_6834-1024x1024.jpg"
+    },
+    {
+        "Price": 790,
+        "Params": {},
+        "Description": "Описание в пути",
+        "Model": "Карты Guardians",
+        "Url": "https://www.mosigra.ru/karti-guardians/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/guardians-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 2 до 4",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "\r\n\tПочему так громко скрипят половицы?\r\n\r\n\t \r\n",
+        "Model": "Зомби в доме. Заражение",
+        "Url": "https://www.mosigra.ru/zombi-v-dome-zarazhenie/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Magellan/Зомби%20в%20доме.%20Заражение%20новая/DSC_6618-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {},
+        "Description": "Описание в пути",
+        "Model": "Набор для покера. 100 фишек с номиналом",
+        "Url": "https://www.mosigra.ru/nabor-dlja-pokera-100-fishek-s-nominalom/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/38a8f17ad123aff858b3b8efe72543b6-1024x1024.jpg"
+    },
+    {
+        "Price": 1490,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "Тёплая и ламповая игра для двоих",
+        "Model": "Пэчворк",
+        "Url": "https://www.mosigra.ru/patchwork/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/539/353/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 490,
+        "Params": {},
+        "Description": "Те самые Tally-Ho",
+        "Model": "Карты Circle back",
+        "Url": "https://www.mosigra.ru/?route=product/product&product_id=329280",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/560/891/1-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 4 до 16",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "\r\n\tВыживут только сильнейшие\r\n",
+        "Model": "Бункер",
+        "Url": "https://www.mosigra.ru/?route=product/product&product_id=342138",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Экономикус/бункер/DSC_2438-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 2 до 7",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "Игра про строительство собственного города",
+        "Model": "Цитадели",
+        "Url": "https://www.mosigra.ru/citadels/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Hobby%20World/Цитадели/DSC_3575-1024x1024.jpg"
+    },
+    {
+        "Price": 490,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 3 до 16",
+            "Время игры": "от 30 до 45"
+        },
+        "Description": "Не показывайте это ребёнку",
+        "Model": "Крокодил ВзрослоОтвязный",
+        "Url": "https://www.mosigra.ru/krokodil_vzroslootvyaznyi/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/orig1-1024x1024.jpg"
+    },
+    {
+        "Price": 490,
+        "Params": {},
+        "Description": "Прослужат долго",
+        "Model": "Карты для покера (100% пластик)",
+        "Url": "https://www.mosigra.ru/karti-dlja-pokera-100-plastik/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Фабрика%20Игр/покер/Карты%20для%20покера%20100%20процентов%20пластик/DSC_0376-1024x1024.jpg"
+    },
+    {
+        "Price": 8990,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 1 до 5",
+            "Время игры": "от 90 до 180"
+        },
+        "Description": "Мощь альтернативной истории",
+        "Model": "Серп",
+        "Url": "https://www.mosigra.ru/scythe/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.main/541/930/2-original-1024x1024.jpg"
+    },
+    {
+        "Price": 2490,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 3 до 8",
+            "Время игры": "30"
+        },
+        "Description": "Игра с резиновой куклой",
+        "Model": "Время Валеры",
+        "Url": "https://www.mosigra.ru/vremia_valery/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/552/962/2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1790,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 4 до 6",
+            "Время игры": "от 15 до 40"
+        },
+        "Description": "Золушка удивилась, когда карета превратилась в банан",
+        "Model": "Испорченный телефон",
+        "Url": "https://www.mosigra.ru/telestrations/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/559/170/DSC_7231_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 490,
+        "Params": {},
+        "Description": "Описание в пути",
+        "Model": "Карты для покера (пластиковые, с увеличенным индексом, черная рубашка)",
+        "Url": "https://www.mosigra.ru/karti-dlja-pokera-plastikovie-s-uvelichennim-indeksom-chernaja-rubashka/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/6158063717-1024x1024.jpg"
+    },
+    {
+        "Price": 5990,
+        "Params": {
+            "Возраст игроков": "от 18"
+        },
+        "Description": "\r\n\tВедь это моя вечеринка\r\n",
+        "Model": "Набор из 300 фишек для покера с номиналом в черном кейсе",
+        "Url": "https://www.mosigra.ru/nabor-iz-300-fishek-dlja-pokera-s-nominalom-v-chernom-kejse/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Фабрика%20покера/Черный%20300/300_Black00-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 3490,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 60 до 90"
+        },
+        "Description": "Известная игра, которая продаётся более 80 лет",
+        "Model": "Монополия",
+        "Url": "https://www.mosigra.ru/monopoly/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/558/968/1-1024x1024.jpg"
+    },
+    {
+        "Price": 890,
+        "Params": {
+            "Возраст игроков": "от 6"
+        },
+        "Description": "Детство, космос, фантазия",
+        "Model": "Имаджинариум. Кассиопея",
+        "Url": "https://www.mosigra.ru/kassiopeia/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/552/175/DSC_9944_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {},
+        "Description": "Описание в пути",
+        "Model": "Карты Bicycle Arch Angels",
+        "Url": "https://www.mosigra.ru/pokerfest-karti-bicycle-arch-angels/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/archangel-1024x1024.jpg"
+    },
+    {
+        "Price": 1350,
+        "Params": {
+            "Возраст игроков": "от 12",
+            "Количество игроков": "от 3",
+            "Время игры": "от 30"
+        },
+        "Description": "Чем Фрёкен Бок занимается на пенсии",
+        "Model": "Спойлер",
+        "Url": "https://www.mosigra.ru/spoiler/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/561/591/DSC_2755_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 3490,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 5",
+            "Время игры": "от 30 до 90"
+        },
+        "Description": "\r\n\tБазовая игра с пятью дополнениями\r\n",
+        "Model": "Каркассон. Королевский подарок",
+        "Url": "https://www.mosigra.ru/hobby_karkasson_gift/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/561/851/DSC_3213_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 8390,
+        "Params": {},
+        "Description": "Премиум-набор",
+        "Model": "Набор из 500 фишек для покера с номиналом",
+        "Url": "https://www.mosigra.ru/nabor-iz-500-fishek-dlja-pokera-s-nominalom/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Фабрика%20Игр/Набор%20из%20500%20фишек%20для%20покера%20с%20номиналом/DSC_6212-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 8",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 20 до 60"
+        },
+        "Description": "Интрига в замкнутом пространстве",
+        "Model": "Клуэдо",
+        "Url": "https://www.mosigra.ru/cluedo_new/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.product.box/549/227/2-1024x1024.jpg"
+    },
+    {
+        "Price": 490,
+        "Params": {},
+        "Description": "Описание в пути",
+        "Model": "Игральные карты Bee с пчелой (Red)",
+        "Url": "https://www.mosigra.ru/igralnie-karti-bee-s-pcheloj-red/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Photo/bee%20red-1024x1024.jpg"
+    },
+    {
+        "Price": 2490,
+        "Params": {
+            "Возраст игроков": "от 14",
+            "Количество игроков": "от 6",
+            "Время игры": "от 30 до 90"
+        },
+        "Description": "С масками и тридцатью ролями",
+        "Model": "Мафия. Вся семья в сборе",
+        "Url": "https://www.mosigra.ru/mafiya_vsya_semya_v_sbore_2_izd/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/559/216/DSC_7428_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 1190,
+        "Params": {
+            "Возраст игроков": "от 6",
+            "Количество игроков": "от 2 до 8",
+            "Время игры": "от 15"
+        },
+        "Description": "Каждой твари по паре",
+        "Model": "Доббль",
+        "Url": "https://www.mosigra.ru/?route=product/product&product_id=30923",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/560/952/1_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 4790,
+        "Params": {},
+        "Description": "Компактный премиум-набор",
+        "Model": "Набор из 200 фишек для покера с номиналом",
+        "Url": "https://www.mosigra.ru/nabor-iz-200-fishek-dlja-pokera-s-nominalom/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Фабрика%20Игр/Набор%20из%20200%20фишек%20для%20покера%20с%20номиналом/DSC_6206-1024x1024.jpg"
+    },
+    {
+        "Price": 490,
+        "Params": {
+            "Возраст игроков": "от 9",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 7 до 9"
+        },
+        "Description": "Игра на умножение!",
+        "Model": "7 на 9 multi",
+        "Url": "https://www.mosigra.ru/7_na_9_multi/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/561/420/3_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {},
+        "Description": "\r\n\tСамая большая песочница\r\n",
+        "Model": "Карты игральные Minecraft",
+        "Url": "https://www.mosigra.ru/karti-igralnie-minecraft/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/ЭМСИ/PLD215_2-1024x1024.jpg"
+    },
+    {
+        "Price": 990,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 2 до 8",
+            "Время игры": "от 40"
+        },
+        "Description": "\r\n\tНе надо стесняться\r\n",
+        "Model": "Злобная Бесстыжая Смешная",
+        "Url": "https://www.mosigra.ru/zlobnaja-besstizhaja-smeshnaja/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/Magellan/Злобная%20Бесстыжая%20Смешная/DSC_7772-1024x1024.jpg"
+    },
+    {
+        "Price": 1490,
+        "Params": {
+            "Возраст игроков": "от 18",
+            "Количество игроков": "от 3 до 6",
+            "Время игры": "от 20 до 30"
+        },
+        "Description": "\r\n\tПрошло ноль дней без мучительных смертей\r\n\r\n\t \r\n",
+        "Model": "Страдающее средневековье",
+        "Url": "https://www.mosigra.ru/stradajushhee-srednevekove/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Товары/New%20Making%20Studio%20/New%20Making%20Studio%20Страдающее%20средневековье/1-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 18"
+        },
+        "Description": "\r\n\tКак в лучших домах Монако\r\n",
+        "Model": "Набор из 100 фишек для покера с номиналом в черном кейсе",
+        "Url": "https://www.mosigra.ru/nabor-iz-100-fishek-dlja-pokera-s-nominalom-v-chernom-kejse/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/Предварительные%20товары/Фабрика%20покера/100_Black01-1024x1024-1024x1024.jpg"
+    },
+    {
+        "Price": 1490,
+        "Params": {
+            "Возраст игроков": "от 5",
+            "Количество игроков": "от 2 до 6",
+            "Время игры": "от 20 до 40"
+        },
+        "Description": "Детский праздник дома",
+        "Model": "День вождей",
+        "Url": "https://www.mosigra.ru/den_vozhdei/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/530/403/-2_600x600-1024x1024.jpg"
+    },
+    {
+        "Price": 2990,
+        "Params": {
+            "Возраст игроков": "от 10",
+            "Количество игроков": "от 2 до 8",
+            "Время игры": "от 30 до 60"
+        },
+        "Description": "Легендарная игра стала круче",
+        "Model": "Цитадели Делюкс",
+        "Url": "https://www.mosigra.ru/cytadeli_deluks/",
+        "PictureUrl": "https://www.mosigra.ru/image/cache/data/mosigra.market/548/314/DSC_0503_600x600-1024x1024.jpg"
+    }
+]
