@@ -14,7 +14,7 @@ from Serv_Bd import collect_Data_AllGames, collect_Data_AllCategs, collect_Data_
 Games = []  #объявление глобальных переменных
 
 count = 1
-category = ''
+category = '' #кто комментарий заказывал?
 ind = 0
 
 class FSMGameSearch(StatesGroup):   #объявление класса состояний для вывода игр по цене
