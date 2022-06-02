@@ -66,12 +66,8 @@ def collect_Data_AllGames(Price_or_ID, Mode):
     except Exception:
         return []
     else:
-        return result   #возвращение сформированного списка
-    #return data
-    #fName = 'dateCat.json'
-    #with open(fName, 'w') as file:
-        #json.dump(data, file, indent=4, ensure_ascii=False)
-
+        return result   #возвращение сформированного списка ()
+    #комментирую комментарий
 def collect_Data_AllCategs( ):
     user_agents = [
         "Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0",
